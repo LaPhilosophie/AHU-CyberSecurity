@@ -12,7 +12,7 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 **一个推荐的学习路线：**
 
 - 安装并使用Linux系统。下面提供几个方案,可以酌情选择使用：
-  - 使用VMware安装Linux虚拟机。你需要知道如何在本机与虚拟机下使用[VMware-tools](https://www.kali.org/docs/virtualization/install-vmware-guest-tools/)完成文本与文件的复制粘贴
+  - [使用VMware安装Linux虚拟机](https://zhuanlan.zhihu.com/p/110128514)。你需要知道如何使用VMware新建虚拟机、使用快照备份等功能、在本机与虚拟机下使用[VMware-tools](https://www.kali.org/docs/virtualization/install-vmware-guest-tools/)完成文本与文件的复制粘贴
   - 使用双系统方案
   - 使用 [wsl2](https://docs.microsoft.com/en-us/windows/wsl/install)
   - 使用云服务器。安装云服务器，可以通过ssh在任何一个主机上连接并使用Linux环境
@@ -33,7 +33,7 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 - [ctf-wiki](https://ctf-wiki.org/)
   - ym老师的课可以概括为pwn和逆向，该网站包含了几乎ctf所有知识点，进去后点击pwn/reverse发现新世界
 - [安全客](https://www.anquanke.com/)
-- [FreeBuf](https://www.anquanke.com/)
+- [FreeBuf](https://www.freebuf.com/)
 
 # C语言
 很多同学认为C语言没有学习的必要，但是绝大多数同学有必要回炉重造一遍
