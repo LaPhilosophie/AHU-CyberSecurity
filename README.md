@@ -37,7 +37,9 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
   - ym老师的课可以概括为pwn和逆向，该网站包含了几乎ctf所有知识点，进去后点击pwn/reverse发现新世界
 - [安全客](https://www.anquanke.com/)
 - [FreeBuf](https://www.freebuf.com/)
+
 # Linux
+
 为了完成漏洞分析&逆向工程课程的学习，需要懂得一些基本的Linux知识
 - 熟练掌握Linux基本命令的使用，比如使用`man`指令查询手册、`grep`指令匹配模式串、`cd`、`mv`、`cp`、`rm `、`touch`、`find`、`mkdir`、`ls`、`gcc`、`objdump`等等
 - 由于Linux源码几乎全是C编写，因此你需要有比较扎实的C语言和数据结构知识，C语言之父所著的[C程序设计语言](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/C%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%20.pdf)是一本极佳的教材
@@ -45,7 +47,8 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 
 **Linux的学习资源推荐：**
 
-**[《计算机教育中缺失的一课》](https://missing-semester-cn.github.io/)**
+**[计算机教育中缺失的一课](https://missing-semester-cn.github.io/)**
+
 - 大学里的计算机课程通常专注于讲授从操作系统到机器学习这些学院派的课程或主题，而对于如何精通工具这一主题则往往会留给学生自行探索
 - 在这个系列课程中讲授了命令行、强大的文本编辑器的使用、使用版本控制系统提供的多种特性等等，花时间打磨使用这些工具的能力并能够最终熟练地、流畅地使用它们是非常有必要的
 - 讲座视频可以在[Youtube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)上找到
@@ -53,7 +56,9 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 **[流传自远古时代的OS实验课程网站中的Linux入门教程](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/linux.html)**
    -  这是一个墙裂推荐的Linux自学教程
    -  想做seedlab，学好Linux的基本使用是最基本的，因此我建议在任何的lab开始之前学习好相关基本操作
-# C语言
+
+# C 语言
+
 很多同学认为C语言没有学习的必要，但是绝大多数同学有必要回炉重造一遍。
 
 下面是几个最简单的C语言知识点，可以自测一下：
@@ -68,6 +73,8 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 - [C程序设计语言](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/C%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%20.pdf)
 - [C陷阱与缺陷](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/C%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6/C%E9%99%B7%E9%98%B1%E4%B8%8E%E7%BC%BA%E9%99%B7.pdf)
 - 程序员的自我修养：链接、装载与库（不要被书名骗了，这是一本C语言进阶书籍，还是比较难的）
+
+一个推荐的 C 语言 Github 仓库：[不择手段学C，用汇编和体系结构相关知识理解C语言本质，用思维导图理解C语言语法。清清白白学C](https://github.com/yifengyou/learn-c)
 
 
 # 汇编
@@ -85,6 +92,7 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 - 深入理解计算机系统
 
 # 保研
+
 **保研的关键时间节点：**
 - 夏令营
 - 预推免
@@ -104,11 +112,27 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 - [计算机类保研准备_1](https://github.com/my-style/computer-exemption)
 - [计算机类保研准备_2](https://github.com/richardodliu/CS-BAOYAN)
 
+# 自学的艺术
+
+# 提问的艺术
+
 # TODO
+
 # 密码学
+
 # 操作系统
 
+# 自学资源 & repo 推荐
 
-# GitHub 仓库推荐
+- [北大计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
+  - 在北大信科专业流传的自学指南，一个供参考的CS学习规划
+  - >任何有志于自学计算机的朋友都可以参考这本书。如果你已经有了一定的计算机基础，只是对某个特定的领域感兴趣，可以选择性地挑选你感兴趣的内容进行学习。当然，如果你是一个像我当年一样对计算机一无所知的小白，初入大学的校门，我希望这本书能成为你的攻略，让你花最少的时间掌握你所需要的知识和能力。某种程度上，这本书更像是一个根据我的体验来排序的课程搜索引擎，帮助大家足不出户，体验世界顶级名校的计算机优质课程
+- [C 语言进阶](https://github.com/yifengyou/learn-c)
+  - 不择手段学C，用汇编和体系结构相关知识理解C语言本质，用思维导图理解C语言语法。清清白白学C
+
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+  - 包含浙江大学选课攻略、电子版教材、平时作业答案年试卷、复习资料等
+
+
 # 书籍推荐
 
