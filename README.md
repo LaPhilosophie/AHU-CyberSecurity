@@ -112,16 +112,18 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 - [计算机类保研准备_1](https://github.com/my-style/computer-exemption)
 - [计算机类保研准备_2](https://github.com/richardodliu/CS-BAOYAN)
 
-# 自学的艺术
 
-# 提问的艺术
 
-# TODO
 
-# 密码学
-
-# 操作系统
-
+# 书籍推荐
+- [C和指针](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/C%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6/C%E5%92%8C%E6%8C%87%E9%92%88.pdf)
+- [C程序设计语言](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/C%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%20.pdf)
+- [C陷阱与缺陷](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/C%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6/C%E9%99%B7%E9%98%B1%E4%B8%8E%E7%BC%BA%E9%99%B7.pdf)
+- 程序员的自我修养：链接、装载与库（不要被书名骗了，这是一本C语言进阶书籍，还是比较难的）
+- [x86汇编语言_从实模式到保护模式](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/x86%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80_%E4%BB%8E%E5%AE%9E%E6%A8%A1%E5%BC%8F%E5%88%B0%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F(%E5%AE%8C%E6%95%B4%E6%89%AB%E6%8F%8F%E7%89%88).pdf)
+- [琢石成器： Windows环境下32位汇编语言程序设计](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/%E7%90%A2%E7%9F%B3%E6%88%90%E5%99%A8%EF%BC%9A%20%20Windows%E7%8E%AF%E5%A2%83%E4%B8%8B32%E4%BD%8D%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf)
+- 深入理解计算机系统
+- [《鸟哥的Linux私房菜》](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/Linux/%E3%80%8A%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E7%AF%87%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
 # 自学资源 & repo 推荐
 
 - [北大计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
@@ -133,6 +135,14 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
   - 包含浙江大学选课攻略、电子版教材、平时作业答案年试卷、复习资料等
 
+# TODO
 
-# 书籍推荐
+# 密码学
+
+# 操作系统
+
+# 自学的艺术
+
+# 提问的艺术
+
 
