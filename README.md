@@ -1,10 +1,11 @@
 # 欢迎来到安徽大学信息安全专业
 借用 [SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue) 的起始章节，在本repo的开始，我不得不遗憾地告诉大家一个消息：国内绝大部分大学的本科教学，不是濒临崩溃，而是早已崩溃。
 
-有些同学思维一直停留在高考结束那一刻，进入大学便止步不前；有些同学缺乏合理详实的学习路线，不断踩坑失去学习CyberSecurity的兴趣；有些同学只会疯狂卷GPA，表面上成为了每门专业课都在90分以上的所谓“优等学生”，但却是个连最基本的安全技能（比如命令行下 `gdb` 调试、`elf` 文件分析、缓冲区溢出原理）都不懂的菜鸟，在虚假的 GPA 繁荣背后，是找不到工作与面试碰壁的进退维谷......四年如弹指一挥间，我希望我所走过的弯路，后人便不必再走。人人薪尽火传，有一分热，发一分光，就令萤火一般，也可以在黑暗里发一点光，不必等候炬火。
+有些同学思维一直停留在高考结束那一刻，进入大学便止步不前；有些同学缺乏合理详实的学习路线，不断踩坑失去学习CyberSecurity的兴趣；有些同学只会疯狂卷GPA，表面上成为了每门专业课都在90分以上的所谓“优等学生”，但却是个连最基本的安全技能（比如命令行下 `gdb` 调试、`elf` 文件分析、缓冲区溢出原理）都不懂的菜鸟，在虚假的 GPA 繁荣背后，是找不到工作与面试碰壁的进退维谷......
+
+四年如弹指一挥间，我希望我所走过的弯路，后人便不必再走。人人薪尽火传，有一分热，发一分光，就令萤火一般，也可以在黑暗里发一点光，不必等候炬火。
 
 
-下面是一些课程的学习路线和资料收集，希望对学弟学妹有所帮助
 
 # 漏洞分析 & 逆向工程
 
@@ -21,7 +22,7 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
   - 使用云服务器。安装云服务器，可以通过ssh在任何一个主机上连接并使用Linux环境
   - 使用[docker Linux镜像](https://hub.docker.com/_/ubuntu)。docker是一个很火的虚拟化方式，[docker hub上Ubuntu的镜像](https://hub.docker.com/_/ubuntu)已经被下载了超过十亿次
 - [《鸟哥的Linux私房菜》](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/Linux/%E3%80%8A%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E7%AF%87%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
-  - 这本书大而全，适合作为字典查看，比如，你要做环境变量的lab，那么除了《计算机安全导论》这本书外，你需要知道环境变量对应的基本知识点，那么，直接`ctrl + f`搜索环境变量这部分知识，会让你读《计算机安全导论》好受很多
+  - 这本书大而全，适合作为字典查看，比如，你要做环境变量的lab，那么除了《计算机安全导论》这本书外，你需要知道环境变量对应的基本知识点，那么，直接`ctrl + f`搜索环境变量这部分知识，会让你读《计算机安全导论》轻松很多
 
 - 自学MIT [《计算机教育中缺失的一课》](https://missing-semester-cn.github.io/)
   - 该课程列出了一些计算机专业老师不会教但是十分有用（你永远绕不开）的知识，比如shell编程、命令行、Git 版本控制、Vim 的使用等等
@@ -73,8 +74,7 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 - [C程序设计语言](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/C%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%20.pdf)
 - [C陷阱与缺陷](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/C%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6/C%E9%99%B7%E9%98%B1%E4%B8%8E%E7%BC%BA%E9%99%B7.pdf)
 - 程序员的自我修养：链接、装载与库（不要被书名骗了，这是一本C语言进阶书籍，还是比较难的）
-
-一个推荐的 C 语言 Github 仓库：[不择手段学C，用汇编和体系结构相关知识理解C语言本质，用思维导图理解C语言语法。清清白白学C](https://github.com/yifengyou/learn-c)
+- 一个推荐的 C 语言 Github 仓库：[不择手段学C，用汇编和体系结构相关知识理解C语言本质，用思维导图理解C语言语法。清清白白学C](https://github.com/yifengyou/learn-c)
 
 
 # 汇编
