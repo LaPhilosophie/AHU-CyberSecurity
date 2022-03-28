@@ -1,5 +1,5 @@
 # 欢迎来到安徽大学信息安全专业
-借用 [SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue) 的起始章节，在本repo的开始，我不得不遗憾地告诉大家一个消息：国内绝大部分大学的本科教学，不是濒临崩溃，而是早已崩溃。
+借用 [SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue) 的起始章节，**在本repo的开始，我不得不遗憾地告诉大家一个消息：国内绝大部分大学的本科教学，不是濒临崩溃，而是早已崩溃**。
 
 有些同学思维一直停留在高考结束那一刻，进入大学便止步不前；有些同学缺乏合理详实的学习路线，不断踩坑失去学习CyberSecurity的兴趣；有些同学只会疯狂卷GPA，表面上成为了每门专业课都在90分以上的所谓“优等学生”，但却是个连最基本的安全技能（比如命令行下 `gdb` 调试、`elf` 文件分析、缓冲区溢出原理）都不懂的菜鸟，在虚假的 GPA 繁荣背后，是找不到工作与面试碰壁的进退维谷......
 
@@ -58,6 +58,9 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
    -  这是一个墙裂推荐的Linux自学教程
    -  想做seedlab，学好Linux的基本使用是最基本的，因此我建议在任何的lab开始之前学习好相关基本操作
 
+**[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)**
+- github上10万+star的项目，源于quora
+- 帮你打开命令行新世界的大门
 # C 语言
 
 很多同学认为C语言没有学习的必要，但是绝大多数同学有必要回炉重造一遍。
