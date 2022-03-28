@@ -37,8 +37,11 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 - [ctf-wiki](https://ctf-wiki.org/)
   - ym老师的课可以概括为pwn和逆向，该网站包含了几乎ctf所有知识点，进去后点击pwn/reverse发现新世界
 - [安全客](https://www.anquanke.com/)
+  - 一个为广大安全爱好者和安全从业人员提供权威信息发布的漏洞信息、最新的安全资讯、最全的安全知识及精彩的安全活动的极具影响力的一站式安全平台 
 - [FreeBuf](https://www.freebuf.com/)
-
+  - 国内关注度最高的互联网安全媒体之一
+- [安全圈](https://www.anquanquan.info/)
+  - 信息安全导航网站
 # Linux
 
 为了完成漏洞分析&逆向工程课程的学习，需要懂得一些基本的Linux知识
@@ -127,7 +130,7 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 - [琢石成器： Windows环境下32位汇编语言程序设计](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/%E7%90%A2%E7%9F%B3%E6%88%90%E5%99%A8%EF%BC%9A%20%20Windows%E7%8E%AF%E5%A2%83%E4%B8%8B32%E4%BD%8D%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf)
 - 深入理解计算机系统
 - [《鸟哥的Linux私房菜》](https://github.com/LaPhilosophie/AHU-CyberSecurity/blob/main/Linux/%E3%80%8A%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E7%AF%87%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
-# 自学资源 & repo 推荐
+# 自学资源 & repo & 网站推荐
 
 - [北大计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
   - 在北大信科专业流传的自学指南，一个供参考的CS学习规划
@@ -137,7 +140,14 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
   - 包含浙江大学选课攻略、电子版教材、平时作业答案年试卷、复习资料等
-
+- [ctf-wiki](https://ctf-wiki.org/)
+  - ym老师的课可以概括为pwn和逆向，该网站包含了几乎ctf所有知识点，进去后点击pwn/reverse发现新世界
+- [安全客](https://www.anquanke.com/)
+  - 一个为广大安全爱好者和安全从业人员提供权威信息发布的漏洞信息、最新的安全资讯、最全的安全知识及精彩的安全活动的极具影响力的一站式安全平台 
+- [FreeBuf](https://www.freebuf.com/)
+  - 国内关注度最高的互联网安全媒体之一
+- [安全圈](https://www.anquanquan.info/)
+  - 信息安全导航网站
 # TODO
 
 # 密码学
