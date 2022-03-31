@@ -64,6 +64,10 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 **[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)**
 - github上10万+star的项目，源于quora
 - 帮你打开命令行新世界的大门
+
+**[ Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)**
+- 一个在线的中文Linux教程
+
 # C 语言
 
 很多同学认为C语言没有学习的必要，但是绝大多数同学有必要回炉重造一遍。
