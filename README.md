@@ -165,8 +165,18 @@ Linux环境下的C语言学习：
 - [安全圈](https://www.anquanquan.info/)
   - 信息安全导航网站
 
-
-
+# 课程之外的知识
+- [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+  - 作为程序员你该如何提问？
+    - RTFM（Read The Fucking Manual）你需要学会读手册
+    - STFW（Search The Fucking Web）你需要学会在Stack Overflow、stack exchange、Google等网站搜索
+  - 一些愚蠢的问题？
+    - 我能在哪找到 X 程序或 X 资源？
+      - 就在我找到它的地方啊，白痴 —— 搜索引擎的那一头。天哪！难道还有人不会用 Google 吗？
+    - 我的 Windows 电脑有问题，你能帮我吗？
+      - 扔掉微软的垃圾，换个像 Linux 或 BSD 的开源操作系统吧
+    - 我在安装 Linux（或者 X ）时有问题，你能帮我吗？
+      - 回答：不能，我只有亲自在你的电脑上动手才能找到毛病。还是去找你当地的 Linux 使用群组者寻求实际的指导吧（你能在这儿找到用户群组的清单）
 
 
 
