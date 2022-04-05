@@ -165,11 +165,10 @@ Linux环境下的C语言学习：
 - [安全圈](https://www.anquanquan.info/)
   - 信息安全导航网站
 
-# 相关工作
-- [上海交通大学生存指南](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
-- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
-- [北京大学课程资料整理](https://github.com/lib-pku/libpku)
+
+
+
+
 
 # TODO
 
@@ -177,8 +176,9 @@ Linux环境下的C语言学习：
 
 # 操作系统
 
-# 自学的艺术
-
-# 提问的艺术
-
-
+# 相关工作
+- [上海交通大学生存指南](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
+- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+- [北京大学课程资料整理](https://github.com/lib-pku/libpku)
+- [GitHub 开源计算机课程攻略 yyds](https://zhuanlan.zhihu.com/p/447898788)
