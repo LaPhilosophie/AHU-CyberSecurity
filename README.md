@@ -68,6 +68,28 @@ ym老师的漏洞分析& 逆向工程应该是计科院最硬核的课程（没�
 **[ Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)**
 - 一个在线的中文Linux教程
 
+# 操作系统
+
+安大操作系统课程的教学（包括国内别的很多学校）是非常落后的。先说课本，基本都是佶屈聱牙的定义和概念，设计到具体代码编写的基本为0，考试题每年都差不多，比如每年必考的银行家算法，几种调度算法，信号机制，硬生生把这门实践要求极强的学科上成了文科——毫不夸张的说，考前背一晚绝对能过。
+
+一个推荐的学习路线：
+
+- [csapp](https://csapp.cs.cmu.edu/)
+
+  - 看完《深入理解计算机系统》，对汇编、C语言、链接、体系结构等有基本了解
+
+  - 试着做一下[csapp对应的lab](http://csapp.cs.cmu.edu/3e/labs.html)，csapp绝大多数的精华不在于书本，在于lab
+
+- [ostep](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+  - 这可能是最好的os教学书籍，建议在看csapp的同时进行阅读，互相补充
+  - 试着做一下对应的lab，原因同上
+
+至此，你的os水平已经至少超过了99%的同学
+
+- [mit 6.828](https://pdos.csail.mit.edu/6.828/2018/schedule.html) (进阶选择)
+  - 跟着官网的schedule走一遍，做对应的lab，研究xv6的源码实现
+  - [xv6](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)是MIT开发的一个类Unix的教学操作系统，源码只有几万行，具有完备的手册和实现
+
 # C 语言
 
 很多同学认为C语言没有学习的必要，但是绝大多数同学有必要回炉重造一遍。
@@ -184,7 +206,7 @@ Linux环境下的C语言学习：
 
 # 密码学
 
-# 操作系统
+
 
 # 相关工作
 - [上海交通大学生存指南](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
